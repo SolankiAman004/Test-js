@@ -16,5 +16,5 @@ let isloggedIn = true;
 
 // Object
 
-console.log(typeof null)      = Object
-console.log(typeof undefined) = undefined
+// console.log(typeof null)      = Object
+// console.log(typeof undefined) = undefined

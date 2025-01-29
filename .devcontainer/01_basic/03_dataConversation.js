@@ -26,9 +26,8 @@ console.log(BooleanIsLoggedIn)
 //  console.log(typeof (someNumber));
 
 
-// ******** Operations*******
+// ******** Operations******
 
-let newNumber = 
 
 
 
